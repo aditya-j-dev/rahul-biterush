@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const BASE_URL = "https://biterush-food-delivery.onrender.com";
+const BASE_URL = "https://rahul-biterush.onrender.com";
 
 const api = axios.create({
   baseURL: `${BASE_URL}/api`,
